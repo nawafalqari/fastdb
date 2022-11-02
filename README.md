@@ -24,7 +24,7 @@ pip install fastdb
 ```
 ### Source
 ```
-git clone https://github.com/fastdb/fastdb
+git clone https://github.com/nawafalqari/fastdb
 cd fastdb
 python setup.py install
 ```
